@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fran Arenas</h1>
-<h3 align="center">I'm a 22-year-old technology enthusiast, passionate about web development and always eager to learn more. I enjoy creating innovative products.</h3>
+<h3 align="center">I'm a 22-year-old tech enthusiast, passionate about innovation and always eager to learn more. I enjoy creating groundbreaking products.</h3>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning **C#**
 
 - 🧑‍🎓 I’m an Undergraduate at **ORT**
-
-- 💬 Ask me about **Web development | OOC**
-
+- 
 - 📫 How to reach me **franarenas.code@gmail.com**
   
 
