@@ -5,9 +5,7 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning **C#**
-
 - 🧑‍🎓 I’m an Undergraduate at **ORT**
-- 
 - 📫 How to reach me **franarenas.code@gmail.com**
   
 
